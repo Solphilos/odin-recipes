@@ -1,0 +1,58 @@
+
+.center {
+    text-align:center;
+}
+
+
+h1 {
+    font-size:80px;
+    border: 2px  red dotted;
+    margin: 20px 10px;
+
+    
+}
+
+h2 {
+    font-size:40px;
+}
+
+h3 {
+    font-size:30px;
+}
+
+.titles {
+    font-family: "Minion Std Black", system-ui;
+    color:red;
+
+}
+
+.other-text {
+    font-family:sans-serif;
+}
+
+.main {
+    font-size:55px;
+}
+
+.description {
+    color:black
+}
+
+
+ul {
+    background-color:rgb(241, 241, 241);
+    padding:30px;
+    margin: auto;
+    display:table;
+    font-size:30px;
+    
+}
+
+ol {
+    background-color: rgb(241, 241, 241);
+    padding:30px;
+    margin:auto;
+    display:table;
+    font-size:30px;
+
+}
